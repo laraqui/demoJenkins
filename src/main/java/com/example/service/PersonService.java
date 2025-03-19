@@ -57,8 +57,10 @@ public class PersonService {
 		p = new Person();
 		p.setId("8");
 		p.setAge(50);
-		p.setFirstName("seminaireRamadanesque22222");
-		p.setLastName("UnNOuveautest2222222");
+
+		p.setFirstName("seminaire");
+		p.setLastName("UnNOuveautest");
+
 		persons.add(p);
 		
 	}
