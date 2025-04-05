@@ -58,8 +58,8 @@ public class PersonService {
 		p.setId("8");
 		p.setAge(50);
 
-		p.setFirstName("seminaire2222222");
-		p.setLastName("UnNOuveautest2222222");
+		p.setFirstName("iwfsKenkins");
+		p.setLastName("jenkinsIWFS");
 
 		persons.add(p);
 		
